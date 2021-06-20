@@ -1,8 +1,8 @@
 
 
-<h2> Hi, I'm RobotPirate! <img src="https://media.tenor.com/images/023da523d9eddb297f250ae406690b6b/tenor.gif" width="50"></h2>
+<h2> Hi, I'm RobotPirate! <img src="https://media.tenor.com/images/023da523d9eddb297f250ae406690b6b/tenor.gif" width="120"></h2>
 <img align='right' src="https://giffiles.alphacoders.com/350/35046.gif" width="230">
-<p><em>I Kick Asses <img src="https://media.tenor.com/images/c8476f1b5ab2ddf9f985dfe7358a6139/tenor.gif" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I Kick Asses <img src="https://media.tenor.com/images/c8476f1b5ab2ddf9f985dfe7358a6139/tenor.gif" width="70"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
 [![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3yc0d3?style=social)](https://twitter.com/Fr3yc0d3)
@@ -27,7 +27,7 @@ const thai = {
 }
 ```
 
-<img src="https://media.tenor.com/images/7e40c5fbdfde64884b1d2457b5cae8f2/tenor.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.tenor.com/images/7e40c5fbdfde64884b1d2457b5cae8f2/tenor.gif" width="120"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ## And Always Remember if you want to know more about me just 
 ```Give me Computer + internet and i will tell you who am i in real ~ Frey```
