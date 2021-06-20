@@ -1,9 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
 
-<h2> Hi, I'm Frey! also Known as Fr3yc0d3 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/75202727?s=400&u=ef504c1f6bbb34d716c3598e2027e920f9f59b1b&v=4" width="230">
-<p><em>CEO and Founder of <a href="http://github.com/cybity">CYBITY</a><img src="https://telegra.ph/file/ca0ba39fa96954191091d.png" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm RobotPirate! <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" width="50"></h2>
+<img align='right' src="https://giffiles.alphacoders.com/350/35046.gif" width="230">
+<p><em>I Kick Asses <img src="https://i.pinimg.com/originals/4c/52/42/4c5242be0125aa5bf0b04a84dc78d5f4.gif" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3yc0d3?style=social)](https://twitter.com/Fr3yc0d3)
@@ -28,7 +27,7 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://i.pinimg.com/originals/b4/4a/9f/b44a9f09546ed9edd65faecf079c9249.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ## And Always Remember if you want to know more about me just 
 ```Give me Computer + internet and i will tell you who am i in real ~ Frey```
