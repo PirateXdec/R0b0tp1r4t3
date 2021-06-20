@@ -10,7 +10,7 @@
 [![GitHub Fr3yc0d3](https://img.shields.io/github/followers/Fr3yc0d3?label=follow&style=social)](https://github.com/Fr3yc0d3)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://image.over-blog.com/Fg51dgtTbrK2z1S9bRSsiJBtqvE=/500x256/smart/filters:no_upscale()/idata%2F5523833%2Fnew-luffy-3D.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
