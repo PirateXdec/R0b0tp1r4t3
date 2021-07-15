@@ -30,6 +30,6 @@ const thai = {
 <img src="https://media.tenor.com/images/7e40c5fbdfde64884b1d2457b5cae8f2/tenor.gif" width="120"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ## And Always Remember if you want to know more about me just 
-```Give me Computer + internet and i will tell you who am i in real ~ Frey```
+```Give me Computer + internet and i will tell you who am i in real ~ Prince```
 
 ---
